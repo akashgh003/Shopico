@@ -1,7 +1,4 @@
 This is fullstack ecommerce website built using Reactjs, ContextAPI, Reduxtoolkit, TailwindCSS and Google Firebase on Backend.
-
-Live Website: https://fullstack-e-commerce-website-reactjs-firebase.vercel.app/
-
 Feature:
 1. Registration (Singup, Login, Reset Password)
 2. Advance Product Filter
