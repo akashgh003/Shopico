@@ -12,7 +12,7 @@ Feature:
 7. Many other important pages.
 
 Admin Login Details:
-Email: uditrsahani@gmail.com
+Email: akashghosh1906@gmail.com
 Password: 123456
 
 User Login Details:
